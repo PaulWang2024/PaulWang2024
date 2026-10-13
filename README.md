@@ -1,16 +1,19 @@
-## Hi there 👋
+# Shengbao Wang
 
-<!--
-**PaulWang2024/PaulWang2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hangzhou Normal University**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. My research interests include **public-key cryptography**, especially **key exchange protocols**, as well as **shortest-path problems** and algorithmic reasoning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Topics
+
+- **[On DH Protocols](https://paulwang2024.github.io/dh-protocols.html)** — Diffie–Hellman-based key exchange, authentication, and protocol security.
+- **[Identity-Based Encryption (IBE)](https://paulwang2024.github.io/ibe.html)** — Identity-based public-key encryption and related security questions.
+- **[Dijkstra and Shortest Paths](https://github.com/PaulWang2024/dijkstra-not-greedy-at-all)** — A global-to-local perspective on Dijkstra's shortest-path algorithm.
+
+### Academic Homepage
+
+[**paulwang2024.github.io**](https://paulwang2024.github.io/)
+
+---
+
+*Research notes and manuscripts are updated as projects develop.*
